@@ -72,6 +72,14 @@
   <a href="https://stackoverflow.com/users/17666972/athar-naveed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+   <a href="https://www.kaggle.com/atharnaveed" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoSize=200" height="35">
+  </a>
+  
+   <a href="https://www.reddit.com/user/Eastern-Internal-378/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/reddit-orange?style=for-the-badge&logo=redit&logoSize=200" height="35">
+
+  </a>
 </div>
 
 ###
