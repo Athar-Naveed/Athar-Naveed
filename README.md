@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://github.com/Athar-Naveed/Athar-Naveed/assets/94740625/5cc17277-a55b-4b40-a3b3-a7c887711fef" align="right" height="150" />
+<img src="https://github.com/Athar-Naveed/Athar-Naveed/assets/94740625/5cc17277-a55b-4b40-a3b3-a7c887711fef" align="right" height="150" width="150" />
 
 ###
 
